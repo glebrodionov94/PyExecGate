@@ -1,0 +1,10 @@
+fastapi
+gunicorn
+pydantic
+uvicorn
+pyVmomi
+requests
+paramiko
+boto3
+certifi
+ldap3
